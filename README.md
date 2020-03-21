@@ -11,7 +11,7 @@
 
 # Визуализация
 
-![Визуализация Diamond-Square](../imgs/ds.png "Орк")
+![Визуализация Diamond-Square](https://raw.githubusercontent.com/Sergkon99/diamond_square/master/img/ds.png "Орк")
 
 # Программная реализация
 
@@ -21,10 +21,10 @@
 
 # Примеры работы
 
-![Пример 1](../imgs/3.png "Орк")
+![Пример 1](https://raw.githubusercontent.com/Sergkon99/diamond_square/master/img/3.png "Орк")
 
-![Пример 2](../imgs/4.png "Орк")
+![Пример 2](https://raw.githubusercontent.com/Sergkon99/diamond_square/master/img/4.png "Орк")
 
-![Пример 3](../imgs/5.png "Орк")
+![Пример 3](https://raw.githubusercontent.com/Sergkon99/diamond_square/master/img/5.png "Орк")
 
-![Пример 4](../imgs/6.png "Орк")
+![Пример 4](https://raw.githubusercontent.com/Sergkon99/diamond_square/master/img/6.png "Орк")
