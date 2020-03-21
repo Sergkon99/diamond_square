@@ -1,4 +1,4 @@
-#include "painter.h"
+#include "../painter.h"
 
 void Painter::clear_canvas()
 {
